@@ -1,0 +1,11 @@
+D:\Viziocs Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe.config
+D:\Viziocs Assignment\Student_Management_System\bin\Debug\Student_Management_System.exe
+D:\Viziocs Assignment\Student_Management_System\bin\Debug\Student_Management_System.pdb
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.csprojAssemblyReference.cache
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.AddEditStudent.resources
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.Login.resources
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.GenerateResource.cache
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.csproj.CoreCompileInputs.cache
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.exe
+D:\Viziocs Assignment\Student_Management_System\obj\Debug\Student_Management_System.pdb
